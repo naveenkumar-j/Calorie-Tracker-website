@@ -1,5 +1,5 @@
 <h1 align="center">Calories Tracker Application</h1> 
-<h4 align="center"><a href="https://naveenkumar-j.github.io/Todo-List-Application-using-JavaScript/" target="_blank">Live Preview</a></h4> 
+<h4 align="center"><a href="https://naveenkumar-j.github.io/calorie-tracker-website" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
 	<center>
@@ -28,13 +28,13 @@
 	</center>
 
 ## About Project:
-A simple todo list app created using HTML, Materialize CSS and JavaScript.
+A Simple JavaScript based website to track food items calories.
 
 ## Available Features:
-1. Add a Task
-2. Filter a Task
-3. Delete a Task
-4. Clear all Tasks
+1. Add Items
+2. Update Items
+3. Delete Items
+4. Clear all Items
 
 ## Project Demo:
 https://user-images.githubusercontent.com/70682152/204069807-98520248-91d5-441a-956f-b3281fa65137.mp4
