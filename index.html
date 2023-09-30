@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tracalire | Meal & Calarie Tracker</title>
+    <link rel="stylesheet" href="style.css">
      <!-- Compiled and minified CSS -->
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+     <link href="logo.png" rel="icon">
 </head>
 <body>
     <nav>
@@ -44,7 +46,7 @@
             </div>
         </div>
         <!--Calories Count start-->
-        <h3 class="center-align">Total Calories: 
+        <h3 class="center-align" id="total-calories">Total Calories: 
             <span class="total-calories">0</span>
         </h3>
 
@@ -72,8 +74,25 @@
         <!--Calories Count end-->
     </div>
 </body>
-
-
+<footer class="page-footer blue">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Calories Tracker Website</h5>
+          <p class="grey-text text-lighten-4">A Simple JavaScript based website to track food items calories.</p>
+        </div>
+        <div class="col l4 offset-l2 s12">
+          <h5 class="white-text">Tech Stack Used</h5>
+          <ul>
+            <li><a class="grey-text text-lighten-3" >HTML</a></li>
+            <li><a class="grey-text text-lighten-3">Materialize css</a></li>
+            <li><a class="grey-text text-lighten-3">JavaScript</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="center-align">© 2023 Copyright All Rights reserved</div>
+    </div>
+  </footer>
  <!-- Compiled and minified JavaScript -->
  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
  <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
