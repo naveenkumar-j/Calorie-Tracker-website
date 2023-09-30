@@ -37,7 +37,7 @@ A Simple JavaScript based website to track food items calories.
 4. Clear all Items
 
 ## Project Demo:
-https://user-images.githubusercontent.com/70682152/204069807-98520248-91d5-441a-956f-b3281fa65137.mp4
+https://github.com/naveenkumar-j/calorie-tracker-website/assets/70682152/c5cc9d5a-d479-4f81-9860-f517f5008b6c
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
