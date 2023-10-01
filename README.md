@@ -11,7 +11,7 @@
 						<img height="64px" width="64px" src="https://github.com/uiwjs/file-icons/blob/master/icon/html.svg">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Materialize</strong></span><br/>
+						<span><strong>Materialize CSS</strong></span><br/>
 						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/materialize.svg">
 					</td>
           <td width="25%" align="center">
