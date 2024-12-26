@@ -1,4 +1,4 @@
-<h1 align="center">Calories Tracker Application</h1> 
+<h1 align="center" id="calories-tracker">Calories Tracker Application</h1> 
 <h4 align="center"><a href="https://naveenkumar-j.github.io/calorie-tracker-website" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
@@ -12,7 +12,7 @@
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Materialize CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/materialize.svg">
+						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Materialize.svg">
 					</td>
           <td width="25%" align="center">
 						<span><strong>JavaScript</strong></span><br/>
@@ -40,6 +40,6 @@ A Simple JavaScript based website to track food items calories.
 https://github.com/naveenkumar-j/calorie-tracker-website/assets/70682152/c5cc9d5a-d479-4f81-9860-f517f5008b6c
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#calories-tracker">↥ back to top</a></b>
 </div>
 
